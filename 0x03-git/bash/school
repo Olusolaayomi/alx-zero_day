@@ -1,1 +1,1 @@
-#!/bin/bash\nech "School"
+#!/bin/bash\necho "The school is open!"
